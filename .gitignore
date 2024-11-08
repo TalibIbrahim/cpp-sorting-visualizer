@@ -1,0 +1,17 @@
+# Ignore build files and compiled binaries
+*.exe
+*.out
+*.o
+*.a
+*.dll
+*.dylib
+*.so
+
+# Ignore VSCode configuration files
+.vscode/
+
+# Ignore IDE config files
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
